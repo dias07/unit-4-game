@@ -1,9 +1,9 @@
 $(document).ready(function() {
- var randomcomp = Math.floor(Math.random() * 100) + 20;
- var randomplayerb1 = Math.floor(Math.random() * 18) + 1;
- var randomplayerb2 = Math.floor(Math.random() * 18) + 1;
- var randomplayerb3 = Math.floor(Math.random() * 18) + 1;
- var randomplayerb4 = Math.floor(Math.random() * 18) + 1;
+ var randomcomp = Math.floor(Math.random() * 101) + 19;
+ var randomplayerb1 = Math.floor(Math.random() * 11) + 1;
+ var randomplayerb2 = Math.floor(Math.random() * 11) + 1;
+ var randomplayerb3 = Math.floor(Math.random() * 11) + 1;
+ var randomplayerb4 = Math.floor(Math.random() * 11) + 1;
  var playerscore=0;
  var button1 = 0;
  var button2 = 0;
