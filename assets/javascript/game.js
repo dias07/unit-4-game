@@ -29,10 +29,10 @@ $(document).ready(function() {
 
 function reset (){
    randomcomp = Math.floor(Math.random() * 100) + 20;
-   randomplayerb1 = Math.floor(Math.random() * 18) + 1;
-   randomplayerb2 = Math.floor(Math.random() * 18) + 1;
-   randomplayerb3 = Math.floor(Math.random() * 18) + 1;
-   randomplayerb4 = Math.floor(Math.random() * 18) + 1;
+   randomplayerb1 = Math.floor(Math.random() * 11) + 1;
+   randomplayerb2 = Math.floor(Math.random() * 11) + 1;
+   randomplayerb3 = Math.floor(Math.random() * 11) + 1;
+   randomplayerb4 = Math.floor(Math.random() * 11) + 1;
    playerscore=0;
    button1 = 0;
    button2 = 0;
